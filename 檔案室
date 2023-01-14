@@ -1,1 +1,42 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>電車踩踏事件檔案館</title>
+  </head>
+  <body>
+    <div style="background-color: #ffffffc2; text-align: center; padding: 40px">
+      <p>对此尘世，心如死灰</p>
+      <p>吾之冲动，呼之欲出</p>
+      <p>浩浩乾坤</p>
+      <p>指路天极</p>
+    </div>
+    <div style="background-color: #f1f1f1; text-align: center; padding: 40px">
+      <p>携强力之心，足世界之美</p>
+      <p>具禅意之心，足世界之举</p>
+      <p>天地与乾坤</p>
+      <p>我的启明星</p>
+    </div>
+    <div
+      style="
+        background-color: #ebdedec2;
+        text-align: center;
+        padding: 40px;
+        font-size: larger;
+      "
+    >
+      <p>MY GUIDING STAR</p>
+    </div>
+    <div style="text-align: center; padding: 60px">
+      <img
+        src="https://i.328888.xyz/2023/01/14/w9973.png"
+        alt="for zzy"
+        width="150px"
+        height="150px"
+      />
+    </div>
+  </body>
+  <img src="" />
+</html>
